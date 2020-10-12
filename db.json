@@ -1,10 +1,10 @@
 {
-courses: [
-{ title: "asdf",
-  modules: ["1", "2", "3"]
+"courses": [
+{ "title": "asdf",
+  "modules": ["1", "2", "3"]
   },
-  {title: "asdf2",
-  modules: ["a", "b", "C"]
+  {"title": "asdf2",
+  "modules": ["a", "b", "C"]
   }
 }]
 }
